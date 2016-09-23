@@ -1,0 +1,15 @@
+{
+  "name": "graphql-rethinkdb-x",
+  "version": "0.0.0",
+  "description": "Basic example of graphql server resolving rethinkdb data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@luiscript",
+  "license": "Public domain",
+  "dependencies": {
+    "graphql": "^0.7.0",
+    "rethinkdb": "^2.3.3"
+  }
+}
